@@ -1,2 +1,2 @@
-# youtube-clone
-youtube clone made by me using html & css
+# Youtube-Clone
+Youtube Clone made by me using html & css
